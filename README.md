@@ -1,8 +1,8 @@
 # Project Raycast
 
 What is it?
-- Java/JavaFx
 - 2,5d raycasting game engine (based on Wolfenstein 3D engine)
+- Java/JavaFx
 - left part of screen is a map with player position and field of view
 - right part of screen is pseudo 3D view
 - basic collision detection
